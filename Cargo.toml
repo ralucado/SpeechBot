@@ -1,0 +1,2 @@
+[workspace]
+members = [ "speech-bot", "speech-center-client" ]
